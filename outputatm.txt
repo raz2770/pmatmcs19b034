@@ -1,0 +1,71 @@
+👏👏 Welcome in sbi bank atm barodameo 🙏🙏🙏 !
+
+Please enter your account number: 
+Enter your PIN: 
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - Exit
+
+Enter a choice: 
+Balance Information:
+
+ - Total balance: 20000.00
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - Exit
+
+Enter a choice: 
+Withdrawal options:
+1 - for withdraw money
+2 - Cancel transaction
+
+Choose a withdrawal option (1-2): please enter money for withdraw
+
+Please take your cash from the cash dispenser.
+
+Withdrawal options:
+1 - for withdraw money
+2 - Cancel transaction
+
+Choose a withdrawal option (1-2): 
+Canceling transaction...
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - Exit
+
+Enter a choice: 
+Please enter a deposit amount  (or 0 to cancel): 2000.00 in the deposit slot.
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - Exit
+
+Enter a choice: 
+Balance Information:
+
+ - Total balance: 21000.00
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - Exit
+
+Enter a choice: 
+Exiting the system...
+
+Thank you
+
+👏👏 Welcome in sbi bank atm barodameo 🙏🙏🙏 !
+
+Please enter your account number: 
